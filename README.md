@@ -1,8 +1,11 @@
-## 技术
+CSS flexbox 布局
+
+[View Online](https://flexcss.netlify.com/) | [Source Code](https://github.com/byodian/trillo/)
+
+![](https://raw.githubusercontent.com/byodian/logpic/master/trillo.png)
+
+### 特点
 - HTML
+- CSS flexbox
 - Sass
 - PostCSS
-
-[View Online](https://flexcss.netlify.com/)
-
-此项目来自课程[CSS and Sass](https://www.udemy.com/advanced-css-and-sass/)
